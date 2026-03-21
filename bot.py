@@ -1,5 +1,5 @@
 importer discorde
-à partir des commandes d'importation discord.ext
+from discord.ext import commands
 importation os
 
 # Créer le bot avec les intentions nécessaires
